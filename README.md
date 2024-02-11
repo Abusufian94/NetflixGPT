@@ -22,3 +22,19 @@ Netflix GPT
  -- Header done 
     Login form
     Sign up form
+    Form Validation 
+    UseRef
+
+    Firebase Deployment 
+    1. install firebase CLI - npm i -g firebase-tools
+    2. firebase login - firebase login 
+    3. initialize firebase - firebase init then select Hosting 
+    4. deploy command - firebase deploy
+    5. Create signup user account 
+    6. create sigin in user 
+
+
+    Redux 
+    - install redux tool kit(@reduxjs/toolkit and react-redux)
+
+    7. Created Redux Store with user slice
